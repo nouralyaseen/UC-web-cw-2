@@ -1,0 +1,15 @@
+.card{
+    width: 500px;
+    background-color: aqua;
+    text-align: center;
+}
+#dish-name{
+    color: white;
+}
+body{
+    border: 5px solid #a23131;
+}
+hr{
+    width: 500px;
+    color: blue;
+}
